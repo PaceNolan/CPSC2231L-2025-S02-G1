@@ -73,3 +73,7 @@ Nolan: Implemented FileLoader.java
 Kevin: Implemented StopWords.java
 
 Sion: Implemented ArticleStats.java and Main.java integration
+
+UML Diagram:
+<img width="2198" height="524" alt="UML Diagram for CPSC2231L (2)" src="https://github.com/user-attachments/assets/750eb8a0-04e4-4170-ac80-4b4ff42a0d09" />
+
